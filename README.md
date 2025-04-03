@@ -40,3 +40,6 @@ pip install yt-dlp spotipy python-dotenv
 - Replace `playlist_id` in the script with your desired Spotify playlist ID.
 - The downloaded audio files will be saved in `C:/Users/artur/Videos/Music/` (you can change the path in the script).
 
+## License
+This project is open-source and available under the MIT License.
+
